@@ -18,9 +18,9 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'railties', '>= 3.0'
   gem.add_dependency 'coffee-rails', '>= 3.2'
-  gem.add_dependency 'sass-rails', '>= 3.2'
+  gem.add_dependency 'sass-rails', '>= 4.0'
 
   gem.add_development_dependency 'bundler', '>= 1.0'
-  gem.add_development_dependency 'rails', '>= 3.0'
+  gem.add_development_dependency 'rails', '>= 4.0'
   gem.add_development_dependency 'thor', '>= 0.14'
 end
